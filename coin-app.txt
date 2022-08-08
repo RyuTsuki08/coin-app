@@ -1,0 +1,8 @@
+Coin app --A
+
+1. Organizar parte del frontend
+
+2. Verificar los complementos, carpetas, sub-carpetas y modulos
+(Organizar de manera limpia y detallada, para conocer la aplicacion)
+
+3. Enrutar / agregar metodos GET, POST, PUT
